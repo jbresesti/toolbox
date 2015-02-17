@@ -2,7 +2,7 @@ package com.wpers.toolbox;
 
 //Example 2 - JDK 7+
 
-//This example demonstrates using Scanner to read a file containing lines of structured data. One Scanner is used to read in each line, and a second Scanner is used to parse each line into a simple name-value pair. The Scanner class is only used for reading, not for writing. 
+// --This example demonstrates using Scanner to read a file containing lines of structured data. One Scanner is used to read in each line, and a second Scanner is used to parse each line into a simple name-value pair. The Scanner class is only used for reading, not for writing. 
 
 import java.io.IOException;
 import java.nio.charset.Charset;
