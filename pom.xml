@@ -5,7 +5,7 @@
 	<groupId>com.wpers</groupId>
 	<artifactId>toolbox</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>jar</packaging> 
 
 	<name>toolbox</name>
 	<url>http://maven.apache.org</url>
