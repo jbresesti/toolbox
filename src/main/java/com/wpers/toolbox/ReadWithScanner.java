@@ -59,7 +59,7 @@ public class ReadWithScanner {
       log("Name is : " + quote(name.trim()) + ", and Value is : " + quote(value.trim()));
     }
     else {
-      log("Empty or invalid line. Unable to process.");
+      log("Empty or invalid line. Unable to process."); 
     }
   }
   
