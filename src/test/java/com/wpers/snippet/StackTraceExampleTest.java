@@ -7,9 +7,9 @@ import java.util.logging.Logger;
  * Java program to demonstrate how to print and get stack trace for current* thread in Java.
  * Stack trace are useful information while debugging or * troubleshooting any issue.
  */
-public class StackTraceExample {
+public class StackTraceExampleTest {
 
-    private static final Logger logger = Logger.getLogger(StackTraceExample.class.getName());
+    private static final Logger logger = Logger.getLogger(StackTraceExampleTest.class.getName());
 
     public static void main(String args[]) {
 
