@@ -8,6 +8,7 @@ import java.util.logging.Logger;
  * Stack trace are useful information while debugging or * troubleshooting any issue.
  */
 public class StackTraceExample {
+
     private static final Logger logger = Logger.getLogger(StackTraceExample.class.getName());
 
     public static void main(String args[]) {
